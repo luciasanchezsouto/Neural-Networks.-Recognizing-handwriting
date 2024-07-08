@@ -1,0 +1,1 @@
+It includes a link to Netron to see the inside proccess that this training and decision-making pipeline follows, and a sketchpad to put in practice the model by recognizing the numbers the user writes on there.
